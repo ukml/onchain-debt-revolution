@@ -43,5 +43,23 @@ Institutions like JPMorgan/Galaxy are deploying on **both** chains. Coinbase bri
 
 Follow for more insights!
 
+## Resources & Links
+
+### Solana Ecosystem
+- **Solana Official Website**: [solana.com](https://solana.com)
+- **Solana Docs**: [docs.solana.com](https://docs.solana.com)
+- **Solana Foundation GitHub**: [github.com/solana-foundation](https://github.com/solana-foundation)
+- **Solana Developer Content**: [github.com/solana-foundation/developer-content](https://github.com/solana-foundation/developer-content)
+
+### Base Ecosystem
+- **Base Official Website**: [base.org](https://base.org)
+- **Base Docs**: [docs.base.org](https://docs.base.org)
+- **Base GitHub (Main Org)**: [github.com/base](https://github.com/base)
+- **Base Node Repo**: [github.com/base/node](https://github.com/base/node) (run your own node!)
+
+Explore these to build on both chains and join the multi-chain revolution!
+
+
+
 
 
