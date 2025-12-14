@@ -1,3 +1,4 @@
+![Onchain Debt Revolution Cover](https://files.catbox.sh/0q2r0k.png)
 # Solana & Base: The Multi-Chain Alliance Revolutionizing Onchain Debt Markets
 
 ![Onchain Debt Revolution Banner](https://images.unsplash.com/photo-1621503856714-725413ee9d0f?ixlib=rb-4.0.3&auto=format&fit=crop&q=80&w=1920)
